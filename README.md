@@ -4,6 +4,11 @@
 
 ---
 
+Link Google Drive : https://drive.google.com/drive/folders/12GyOH1DN5AD2LEp-Jh0fNOWwyDldZELP?usp=sharing
+Link Demo YouTube : https://youtu.be/1R6A4IEYPPM
+
+---
+
 ## 📋 Deskripsi Proyek
 
 Proyek ini merupakan implementasi **High Availability (HA) Server dengan Load Balancing** menggunakan HAProxy sebagai load balancer dan dua web server backend berbasis Apache2. Tujuan utama proyek ini adalah memastikan layanan web tetap berjalan meskipun salah satu server mengalami kegagalan (*failover*).
